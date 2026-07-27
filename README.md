@@ -4,6 +4,8 @@
 cloacked-pixel
 ==========
 
+> **Note**: This is a Python 3 port / modified version of [livz/cloacked-pixel](https://github.com/livz/cloacked-pixel). All credit for the original project goes to the original author.
+
 Platform independent Python tool to implement LSB image steganography and a basic detection technique. Features:
 
  - Encrypt data before insertion.
